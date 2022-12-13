@@ -1,0 +1,14 @@
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\bin\Debug\net7.0\paycalc.core.deps.json
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\bin\Debug\net7.0\paycalc.core.runtimeconfig.json
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\bin\Debug\net7.0\paycalc.core.dll
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\bin\Debug\net7.0\paycalc.core.pdb
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.csproj.AssemblyReference.cache
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.AssemblyInfoInputs.cache
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.AssemblyInfo.cs
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.csproj.CoreCompileInputs.cache
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.dll
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\refint\paycalc.core.dll
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.pdb
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\paycalc.core.genruntimeconfig.cache
+C:\Users\YNTMD\projects\p\PayCalc\src\paycalc_api\paycalc.core\obj\Debug\net7.0\ref\paycalc.core.dll
