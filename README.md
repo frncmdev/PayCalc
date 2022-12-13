@@ -6,3 +6,21 @@ An app to calculate your pay using React, C# and Sql Server. In short I got sick
 - I am using the repository pattern with DTO objects on the api. this is to mitigate an SQL Injection vulnerability created by exposing the dbcontext.
 - I am planning on using JWTs to authorize the users.
 - I am going to put myself through the pain of unit testing the api.
+
+### file structure
+```
+paycalc_api
+├── paycalc.core // seperate the business logic from the api
+│   ├── entities
+│   ├── jwt
+│   ├── mapper
+│   ├── dto
+│   ├── services
+│   └── dbcontext
+├── paycalc.api // the actual api
+│   └── controllers 
+├── paycalc.tests // this is where we test the services and the dbcontext
+│   ├── program.cs 
+│   └── using.cs
+└── paycalc_api.sln
+```
